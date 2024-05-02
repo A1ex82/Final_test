@@ -1,0 +1,70 @@
+  573  pwd
+  574  ll
+  575  cd shared/
+  576  cd Final_test
+  577  touch linux_commands
+  578  ll
+  579  git add .
+  580  git status
+  581  git commit -m "add README file"
+  582  git push -u origin
+  583  cat > Домашние_животные
+  584  cat > Вьючные_животные
+  585  cat > Домашние_животные Вьючные_животные > Животные
+  586  mv Животные Друзья_человека
+  587  mkdir Питомник
+  588  mv Друзья_человека Питомник
+  589  sudo dpkg -i mysql-apt-config_0.8.30-1_all.deb
+  590  sudo apt install /home/navitski82/mysql-apt-config_0.8.30-1_all.deb
+  591  wget https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
+  592  sudo apt install ./mysql-apt-config_0.8.30-1_all.deb
+  593  ll
+  594  sudo dpkg -i ./mysql-apt-config_0.8.12-1_all.deb
+  595  sudo apt install ./mysql-apt-config_0.8.30-1_all.deb
+  596  sudo apt update
+  597  sudo apt install mysql-server mysql-client
+  598  cd Загрузки/
+  599  ll
+  600  cd ..
+  601  ll
+  602  cd shared/
+  603  ll
+  604  sudo dpkg -i code_1.88.1-1712771838_amd64.deb 
+  605  dpkg -S code
+  606  dpkg -S code_1.88.1
+  607  ll
+  608  cd /
+  609  ll
+  610  cd usr/
+  611  ll
+  612  cd bin
+  613  ll
+  614  cd ..
+  615  `
+  616  cd 
+  617  ll
+  618  cd shared/
+  619  ll
+  620  cd /
+  621  cd usr/
+  622  cd share/
+  623  ll
+  624  cd code
+  625  ll
+  626  cd bin
+  627  ll
+  628  cd code
+  629  dpkg -S code
+  630  sudo dpkg --purge code
+  631  history
+  632  cd 
+  633  ll
+  634  cd shared/
+  635  cd Final_test
+  636  ll
+  637  history 70
+  638  cat history 70 > history_file
+  639  touch history_file
+  640  cat history 70 > history_file
+  641  ll
+  642  history 70 > history_file 
